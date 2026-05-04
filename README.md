@@ -97,14 +97,16 @@ macOS
 ~/Library/Application Support/Code/User
 ```
 Apply config
+
 # Replace your settings.json
+
 Open settings.json
 Paste this config
 Save
 
 Done.
-
-⚙️ Configuration Highlights
+---
+⚙️ Configuration Highlights-
 Area	What’s Done
 Editor	auto-format, smooth cursor, smart hints
 UI	minimap OFF, breadcrumbs OFF, clean layout
@@ -148,9 +150,9 @@ RAM usage: reduced
 UI load: minimal
 Typing latency: smooth
 
-
+---
 📝 License
-
+---
 MIT License
 
 👨‍💻 Author
