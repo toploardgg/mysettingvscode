@@ -106,6 +106,29 @@ Save
 
 Done.
 ---
+## 🔌 My Extensions
+
+- ms-python.python — Python support  
+- ms-vscode.cpptools — C/C++ support  
+- esbenp.prettier-vscode — Code formatter  
+- eamodio.gitlens — Git superpowers  
+
+### 🧩 Additional
+
+- prettier — formatting  
+- path-intellisense — file path autocomplete  
+- jupyter — notebooks support  
+- indent-rainbow — indentation visualization  
+- html-css-support — CSS classes autocomplete  
+- html-boilerplate — quick HTML templates  
+- fluent-icons — clean file icons  
+- django — Django support  
+- discord-vscode — Discord Rich Presence  
+- debugger-for-firefox — Firefox debugging  
+- css-formatter — CSS formatting  
+- container-tools — Docker & containers  
+- bearded-theme — Monokai Black theme  
+
 ⚙️ Configuration Highlights-
 Area	What’s Done
 Editor	auto-format, smooth cursor, smart hints
